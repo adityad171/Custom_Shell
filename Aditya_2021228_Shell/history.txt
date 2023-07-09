@@ -1,0 +1,5 @@
+ 1 date
+ 1 ls
+ 1 cd ..
+ 1 pwd
+ 1 exit
